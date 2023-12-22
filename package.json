@@ -1,0 +1,16 @@
+{
+  "name": "backend-express",
+  "version": "1.0.0",
+  "description": "lorem",
+  "main": "server.js",
+  "scripts": {
+    "start": "node.server.js"
+  },
+  "author": "SSI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.1"
+  }
+}
